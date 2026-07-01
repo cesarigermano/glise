@@ -8,6 +8,14 @@ It includes viewport interaction, component selection/editing, subdivision-style
 
 YouTube demo: https://youtu.be/oKmjvxRnTiE?si=7B6Lnmmvks0_lyr4
 
+## Press / publication
+
+Glise was featured in *The MagPi* Issue 55 in the tutorial “Model a Squid with Glise”, a walkthrough introducing 3D modelling on Raspberry Pi.
+
+The article presented Glise as a lightweight modeller built from scratch for Raspberry Pi and authored by Germano Cesari, Glise lead developer.
+
+Magazine PDF: https://www.raspberrypi.com/magpi/issues/55
+
 ## Notes
 
 This repository is used as a public project overview and demo reference. Source code is not currently public.

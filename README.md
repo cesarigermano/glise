@@ -14,7 +14,7 @@ It includes viewport interaction, component selection/editing, subdivision-style
 ![color picker / layers](images/GLISE_6071.JPG)
 ![soft selection / mesh editing](images/GLISE_6062.JPG)
 ![render preview / wireframe](images/GLISE_6063.JPG)
-![procedural geometry](images/GLISE_6069.JPG)
+![procedural geometry](images/GLISE_6069.PNG)
 ![procedural geometry](images/GLISE_6064.JPG)
 ![procedural geometry](images/GLISE_6065.JPG)
 
